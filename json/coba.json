@@ -1,0 +1,32 @@
+[
+	{
+	"nama" : "Nurul",
+	"umur" : 20,
+	"nrp" : "173040092",
+	"lulus" : "on the way",
+	"hobby" : [
+			"coding",
+			"singing"
+	],
+		"pembimbing" : {
+			"pembimbing1" : "Ade sukendar",
+			"pembimbing2" : "Belum Tau"
+		}
+	},
+
+	{
+	"nama" : "Fauziah",
+	"umur" : 20,
+	"nrp" : "173040092",
+	"lulus" : "on the way",
+	"hobby" : [
+			"coding",
+			"singing"
+	],
+	"pembimbing" : {
+			"pembimbing1" : "Ade sukendar",
+			"pembimbing2" : "Belum Tau"
+		}
+
+	}
+]
